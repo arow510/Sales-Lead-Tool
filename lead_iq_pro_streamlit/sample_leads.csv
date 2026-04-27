@@ -1,0 +1,151 @@
+lead_id,first_name,last_name,company,email,phone,region,lead_source,product_interest,pipeline_stage,estimated_value,engagement_score,company_size,days_since_last_contact,notes,lead_score,lead_tier
+1001,Chris,Johnson,Acme Corp,lead1@example.com,555-010-0001,Midwest,Website,ERP,Proposal Sent,152820,63,7206,24,Budget approved but comparing vendors.,68.4,Warm
+1002,Lisa,Johnson,Acme Corp,lead2@example.com,555-010-0002,West,Webinar,AI Automation,Closed Won,110113,73,3378,72,Interested in cloud migration and cost savings.,72.8,Warm
+1003,David,Howard,Delta Systems,lead3@example.com,555-010-0003,Midwest,Webinar,ERP,New,9621,17,3807,21,Budget approved but comparing vendors.,32.6,Cold
+1004,Chris,Johnson,Northstar Health,lead4@example.com,555-010-0004,West,LinkedIn,Cybersecurity,New,151106,9,1802,3,Low urgency but long-term potential.,59.0,Warm
+1005,James,Garcia,Pioneer Networks,lead5@example.com,555-010-0005,Midwest,Referral,Analytics,Contacted,247999,75,5742,25,Requested technical architecture overview.,73.8,Warm
+1006,Tanya,Smith,CloudBridge,lead6@example.com,555-010-0006,Midwest,Website,ERP,Proposal Sent,141198,15,3486,57,Interested in cloud migration and cost savings.,46.8,Cold
+1007,David,Patel,Northstar Health,lead7@example.com,555-010-0007,East,LinkedIn,AI Automation,Closed Lost,141194,24,3427,28,Low urgency but long-term potential.,50.8,Warm
+1008,David,Smith,CloudBridge,lead8@example.com,555-010-0008,Midwest,Campaign,Cybersecurity,Closed Lost,23030,38,1655,86,Asked about cybersecurity and compliance requirements.,42.1,Cold
+1009,Chris,Howard,Delta Systems,lead9@example.com,555-010-0009,East,LinkedIn,Networking,Contacted,87838,35,9407,36,Interested in cloud migration and cost savings.,40.8,Cold
+1010,Maria,Brown,Delta Systems,lead10@example.com,555-010-0010,Midwest,LinkedIn,Networking,Contacted,89717,94,3040,74,Low urgency but long-term potential.,67.3,Warm
+1011,James,Patel,Acme Corp,lead11@example.com,555-010-0011,South,Referral,Cybersecurity,Contacted,191730,95,2882,69,Asked about cybersecurity and compliance requirements.,82.8,Hot
+1012,Chris,Howard,Pioneer Networks,lead12@example.com,555-010-0012,South,Campaign,AI Automation,Closed Won,43638,49,3082,17,Budget approved but comparing vendors.,47.0,Cold
+1013,James,Wilson,CloudBridge,lead13@example.com,555-010-0013,South,LinkedIn,Cybersecurity,Closed Won,72067,69,1864,84,Requested technical architecture overview.,56.0,Warm
+1014,James,Brown,Northstar Health,lead14@example.com,555-010-0014,Midwest,Website,Analytics,Qualified,242548,62,4031,41,Asked about cybersecurity and compliance requirements.,67.9,Warm
+1015,Tanya,Smith,Delta Systems,lead15@example.com,555-010-0015,East,Website,Analytics,Qualified,123033,60,4672,40,Needs follow-up next week.,67.0,Warm
+1016,David,Howard,Acme Corp,lead16@example.com,555-010-0016,East,Webinar,Networking,Contacted,110977,50,6524,37,Asked about cybersecurity and compliance requirements.,62.5,Warm
+1017,Lisa,Wilson,Acme Corp,lead17@example.com,555-010-0017,Midwest,Campaign,ERP,Proposal Sent,93869,78,5041,33,Asked about cybersecurity and compliance requirements.,60.1,Warm
+1018,Tanya,Patel,CloudBridge,lead18@example.com,555-010-0018,South,Campaign,AI Automation,New,110186,75,2718,16,Requested technical architecture overview.,73.8,Warm
+1019,Tanya,Patel,Delta Systems,lead19@example.com,555-010-0019,South,Webinar,Networking,Closed Won,39674,9,7122,36,Needs follow-up next week.,29.0,Cold
+1020,James,Lee,Pioneer Networks,lead20@example.com,555-010-0020,East,LinkedIn,ERP,Proposal Sent,171926,34,9534,24,Low urgency but long-term potential.,55.3,Warm
+1021,Nina,Wilson,Delta Systems,lead21@example.com,555-010-0021,South,Campaign,ERP,Negotiation,51271,76,8403,75,Low urgency but long-term potential.,59.2,Warm
+1022,David,Garcia,CloudBridge,lead22@example.com,555-010-0022,West,Website,Analytics,Closed Won,78688,99,3517,86,Asked about cybersecurity and compliance requirements.,69.6,Warm
+1023,Maria,Johnson,CloudBridge,lead23@example.com,555-010-0023,East,Website,Cloud Services,Closed Won,174590,35,6466,85,Needs follow-up next week.,55.8,Warm
+1024,Tanya,Brown,Delta Systems,lead24@example.com,555-010-0024,South,Referral,Cloud Services,Qualified,116076,1,4222,84,Needs follow-up next week.,40.4,Cold
+1025,Lisa,Wilson,CloudBridge,lead25@example.com,555-010-0025,East,Campaign,Cybersecurity,New,146339,40,7980,26,Requested technical architecture overview.,58.0,Warm
+1026,Nina,Lee,Delta Systems,lead26@example.com,555-010-0026,West,LinkedIn,Analytics,New,226897,64,8776,56,Budget approved but comparing vendors.,68.8,Warm
+1027,Nina,Johnson,Northstar Health,lead27@example.com,555-010-0027,East,Webinar,ERP,Closed Lost,6062,22,546,30,Low urgency but long-term potential.,27.9,Cold
+1028,Maria,Johnson,Delta Systems,lead28@example.com,555-010-0028,East,Webinar,AI Automation,Closed Lost,55448,60,1635,5,Requested technical architecture overview.,67.0,Warm
+1029,Tanya,Howard,Delta Systems,lead29@example.com,555-010-0029,East,LinkedIn,Cloud Services,Closed Lost,100462,64,7983,39,Interested in cloud migration and cost savings.,68.8,Warm
+1030,Lisa,Johnson,CloudBridge,lead30@example.com,555-010-0030,East,Cold Outreach,ERP,Closed Lost,142301,93,8587,11,Low urgency but long-term potential.,81.8,Hot
+1031,David,Garcia,CloudBridge,lead31@example.com,555-010-0031,West,Referral,Cloud Services,Negotiation,192865,72,8080,52,Requested technical architecture overview.,72.4,Warm
+1032,Aaron,Patel,Acme Corp,lead32@example.com,555-010-0032,Midwest,Webinar,Cloud Services,Negotiation,52915,11,8676,70,Low urgency but long-term potential.,30.0,Cold
+1033,Lisa,Lee,Acme Corp,lead33@example.com,555-010-0033,East,Campaign,Cloud Services,Closed Won,9632,14,8619,9,Budget approved but comparing vendors.,31.3,Cold
+1034,Maria,Johnson,Northstar Health,lead34@example.com,555-010-0034,East,Referral,AI Automation,Contacted,109592,60,6500,44,Interested in cloud migration and cost savings.,67.0,Warm
+1035,Nina,Howard,Acme Corp,lead35@example.com,555-010-0035,South,Campaign,Analytics,Qualified,139668,30,3610,16,Budget approved but comparing vendors.,53.5,Warm
+1036,David,Garcia,Delta Systems,lead36@example.com,555-010-0036,East,Website,AI Automation,Qualified,114779,35,6793,25,Interested in cloud migration and cost savings.,55.8,Warm
+1037,Lisa,Smith,CloudBridge,lead37@example.com,555-010-0037,South,Referral,Networking,Closed Lost,142240,85,9156,84,Asked about cybersecurity and compliance requirements.,78.2,Hot
+1038,Aaron,Patel,Acme Corp,lead38@example.com,555-010-0038,Midwest,Webinar,ERP,Closed Won,113099,37,4981,61,Requested technical architecture overview.,56.6,Warm
+1039,Aaron,Patel,Acme Corp,lead39@example.com,555-010-0039,West,Referral,Analytics,Proposal Sent,12561,5,1215,45,Interested in cloud migration and cost savings.,27.2,Cold
+1040,James,Lee,Northstar Health,lead40@example.com,555-010-0040,West,Referral,Analytics,Contacted,209866,83,2000,63,Budget approved but comparing vendors.,77.4,Hot
+1041,James,Patel,Northstar Health,lead41@example.com,555-010-0041,Midwest,Referral,Analytics,Closed Won,87152,78,5309,1,Low urgency but long-term potential.,75.1,Hot
+1042,Chris,Johnson,Delta Systems,lead42@example.com,555-010-0042,West,Cold Outreach,Analytics,Contacted,130036,26,3582,53,Interested in cloud migration and cost savings.,51.7,Warm
+1043,Maria,Howard,CloudBridge,lead43@example.com,555-010-0043,Midwest,Referral,AI Automation,Contacted,129049,62,5985,64,Requested technical architecture overview.,67.9,Warm
+1044,Tanya,Patel,Northstar Health,lead44@example.com,555-010-0044,Midwest,Campaign,Analytics,Contacted,31734,4,6330,50,Interested in cloud migration and cost savings.,26.8,Cold
+1045,Lisa,Patel,Acme Corp,lead45@example.com,555-010-0045,Midwest,Website,Cybersecurity,Closed Won,142443,89,4390,52,Needs follow-up next week.,80.1,Hot
+1046,Lisa,Smith,CloudBridge,lead46@example.com,555-010-0046,West,LinkedIn,ERP,Closed Lost,31069,42,4767,35,Low urgency but long-term potential.,43.9,Cold
+1047,Tanya,Smith,CloudBridge,lead47@example.com,555-010-0047,South,Referral,Analytics,Qualified,215977,89,2723,25,Requested technical architecture overview.,80.1,Hot
+1048,Chris,Brown,Acme Corp,lead48@example.com,555-010-0048,Midwest,Webinar,ERP,Qualified,17910,18,5598,28,Requested technical architecture overview.,33.1,Cold
+1049,Nina,Garcia,Northstar Health,lead49@example.com,555-010-0049,East,Referral,Cybersecurity,Closed Lost,78479,40,976,20,Asked about cybersecurity and compliance requirements.,36.0,Cold
+1050,Nina,Johnson,Acme Corp,lead50@example.com,555-010-0050,West,Webinar,Cybersecurity,Contacted,213807,72,4954,10,Budget approved but comparing vendors.,72.4,Warm
+1051,Chris,Patel,CloudBridge,lead51@example.com,555-010-0051,Midwest,Campaign,ERP,Proposal Sent,86264,39,3442,39,Asked about cybersecurity and compliance requirements.,42.6,Cold
+1052,Nina,Wilson,Pioneer Networks,lead52@example.com,555-010-0052,Midwest,Webinar,Cloud Services,New,28275,14,698,10,Requested technical architecture overview.,24.3,Cold
+1053,James,Patel,Pioneer Networks,lead53@example.com,555-010-0053,East,LinkedIn,Networking,Closed Won,77274,32,4253,35,Low urgency but long-term potential.,39.4,Cold
+1054,Lisa,Howard,Delta Systems,lead54@example.com,555-010-0054,South,Website,Cloud Services,New,217521,51,3711,58,Interested in cloud migration and cost savings.,63.0,Warm
+1055,Chris,Brown,Acme Corp,lead55@example.com,555-010-0055,South,Webinar,Cloud Services,Closed Lost,105776,38,8543,38,Interested in cloud migration and cost savings.,57.1,Warm
+1056,Lisa,Garcia,Acme Corp,lead56@example.com,555-010-0056,South,Webinar,AI Automation,Proposal Sent,196076,97,5192,53,Low urgency but long-term potential.,83.6,Hot
+1057,Tanya,Wilson,Delta Systems,lead57@example.com,555-010-0057,Midwest,Website,Cloud Services,Closed Won,199053,23,9926,54,Requested technical architecture overview.,50.4,Warm
+1058,Aaron,Brown,Delta Systems,lead58@example.com,555-010-0058,Midwest,LinkedIn,Analytics,Closed Lost,220731,63,6714,23,Interested in cloud migration and cost savings.,68.4,Warm
+1059,James,Lee,Delta Systems,lead59@example.com,555-010-0059,Midwest,Referral,AI Automation,Contacted,190625,15,4432,21,Interested in cloud migration and cost savings.,46.8,Cold
+1060,David,Garcia,CloudBridge,lead60@example.com,555-010-0060,West,Webinar,AI Automation,Qualified,53447,97,9994,68,Interested in cloud migration and cost savings.,68.6,Warm
+1061,James,Patel,Acme Corp,lead61@example.com,555-010-0061,East,Website,Cybersecurity,New,170601,25,1769,55,Budget approved but comparing vendors.,51.2,Warm
+1062,Chris,Patel,CloudBridge,lead62@example.com,555-010-0062,Midwest,Campaign,Cloud Services,Negotiation,131394,17,9191,32,Budget approved but comparing vendors.,47.6,Cold
+1063,David,Garcia,Delta Systems,lead63@example.com,555-010-0063,East,Website,Cybersecurity,Negotiation,80703,97,2492,35,Needs follow-up next week.,68.6,Warm
+1064,Aaron,Patel,Acme Corp,lead64@example.com,555-010-0064,East,Campaign,ERP,Proposal Sent,81090,66,8068,19,Asked about cybersecurity and compliance requirements.,54.7,Warm
+1065,Chris,Johnson,CloudBridge,lead65@example.com,555-010-0065,South,LinkedIn,Networking,Contacted,22260,78,961,82,Low urgency but long-term potential.,53.1,Warm
+1066,Maria,Garcia,CloudBridge,lead66@example.com,555-010-0066,West,Referral,AI Automation,New,117581,53,8924,80,Low urgency but long-term potential.,63.8,Warm
+1067,Lisa,Brown,Delta Systems,lead67@example.com,555-010-0067,Midwest,Website,ERP,Contacted,8812,51,2089,61,Low urgency but long-term potential.,48.0,Cold
+1068,Aaron,Garcia,Acme Corp,lead68@example.com,555-010-0068,South,Cold Outreach,ERP,New,164096,39,2727,72,Needs follow-up next week.,57.6,Warm
+1069,Lisa,Wilson,Delta Systems,lead69@example.com,555-010-0069,South,Webinar,Analytics,Proposal Sent,194728,51,4534,25,Budget approved but comparing vendors.,63.0,Warm
+1070,Nina,Patel,Acme Corp,lead70@example.com,555-010-0070,Midwest,LinkedIn,Networking,Proposal Sent,121148,70,9702,65,Requested technical architecture overview.,71.5,Warm
+1071,Maria,Johnson,Pioneer Networks,lead71@example.com,555-010-0071,East,Website,ERP,Negotiation,163357,6,8487,72,Requested technical architecture overview.,42.7,Cold
+1072,Maria,Johnson,Northstar Health,lead72@example.com,555-010-0072,South,Webinar,ERP,Contacted,228508,67,7321,72,Needs follow-up next week.,70.2,Warm
+1073,Aaron,Lee,Northstar Health,lead73@example.com,555-010-0073,East,Website,Networking,Closed Won,121421,7,7196,39,Requested technical architecture overview.,43.2,Cold
+1074,Maria,Brown,Northstar Health,lead74@example.com,555-010-0074,West,Campaign,Networking,Negotiation,6605,51,2075,16,Low urgency but long-term potential.,48.0,Cold
+1075,David,Smith,Delta Systems,lead75@example.com,555-010-0075,East,Website,ERP,Contacted,207230,72,778,0,Asked about cybersecurity and compliance requirements.,80.4,Hot
+1076,Maria,Smith,Pioneer Networks,lead76@example.com,555-010-0076,West,Cold Outreach,Networking,Negotiation,77303,42,5500,88,Interested in cloud migration and cost savings.,43.9,Cold
+1077,Lisa,Garcia,Acme Corp,lead77@example.com,555-010-0077,East,Website,ERP,Closed Won,163211,64,6655,60,Budget approved but comparing vendors.,68.8,Warm
+1078,Lisa,Lee,CloudBridge,lead78@example.com,555-010-0078,South,Website,ERP,Qualified,213221,15,5093,42,Budget approved but comparing vendors.,46.8,Cold
+1079,Chris,Howard,Acme Corp,lead79@example.com,555-010-0079,South,Cold Outreach,Analytics,Qualified,192210,29,5242,41,Needs follow-up next week.,53.0,Warm
+1080,Lisa,Garcia,CloudBridge,lead80@example.com,555-010-0080,West,LinkedIn,Cloud Services,Qualified,81125,33,5807,24,Budget approved but comparing vendors.,39.8,Cold
+1081,Chris,Lee,Acme Corp,lead81@example.com,555-010-0081,Midwest,Website,ERP,Qualified,149990,94,9148,38,Low urgency but long-term potential.,82.3,Hot
+1082,Lisa,Brown,Pioneer Networks,lead82@example.com,555-010-0082,West,Cold Outreach,Cybersecurity,Closed Lost,221727,27,4936,34,Requested technical architecture overview.,52.2,Warm
+1083,David,Brown,CloudBridge,lead83@example.com,555-010-0083,West,Webinar,AI Automation,New,163518,36,6026,2,Low urgency but long-term potential.,71.2,Warm
+1084,Tanya,Brown,Delta Systems,lead84@example.com,555-010-0084,East,Campaign,Cloud Services,Closed Lost,129040,29,3345,43,Needs follow-up next week.,53.0,Warm
+1085,Chris,Brown,Acme Corp,lead85@example.com,555-010-0085,East,Campaign,Cloud Services,Closed Lost,149118,38,8048,50,Low urgency but long-term potential.,57.1,Warm
+1086,James,Brown,Acme Corp,lead86@example.com,555-010-0086,West,Website,Cloud Services,Closed Lost,160890,57,4883,11,Requested technical architecture overview.,65.6,Warm
+1087,Nina,Lee,CloudBridge,lead87@example.com,555-010-0087,South,LinkedIn,Analytics,Qualified,236966,97,1491,18,Asked about cybersecurity and compliance requirements.,83.6,Hot
+1088,Aaron,Lee,Delta Systems,lead88@example.com,555-010-0088,East,LinkedIn,ERP,Closed Won,9324,27,6315,43,Needs follow-up next week.,37.2,Cold
+1089,Lisa,Johnson,Delta Systems,lead89@example.com,555-010-0089,Midwest,Webinar,Analytics,Proposal Sent,81323,55,3461,58,Asked about cybersecurity and compliance requirements.,49.8,Cold
+1090,Maria,Wilson,Pioneer Networks,lead90@example.com,555-010-0090,East,Website,ERP,Proposal Sent,14111,33,64,48,Interested in cloud migration and cost savings.,32.8,Cold
+1091,Tanya,Smith,Delta Systems,lead91@example.com,555-010-0091,East,Campaign,Analytics,New,174182,68,7653,60,Asked about cybersecurity and compliance requirements.,70.6,Warm
+1092,Lisa,Patel,Delta Systems,lead92@example.com,555-010-0092,Midwest,LinkedIn,Analytics,Qualified,21389,86,3472,16,Interested in cloud migration and cost savings.,63.7,Warm
+1093,Maria,Brown,Delta Systems,lead93@example.com,555-010-0093,West,Website,AI Automation,Qualified,127177,66,842,73,Interested in cloud migration and cost savings.,62.7,Warm
+1094,Nina,Howard,Northstar Health,lead94@example.com,555-010-0094,Midwest,LinkedIn,Cybersecurity,Qualified,46427,10,5964,56,Asked about cybersecurity and compliance requirements.,29.5,Cold
+1095,Nina,Patel,Pioneer Networks,lead95@example.com,555-010-0095,West,Cold Outreach,Analytics,Negotiation,215651,5,8529,54,Needs follow-up next week.,42.2,Cold
+1096,Nina,Lee,Acme Corp,lead96@example.com,555-010-0096,West,LinkedIn,AI Automation,Contacted,164818,74,7231,46,Requested technical architecture overview.,73.3,Warm
+1097,Maria,Howard,CloudBridge,lead97@example.com,555-010-0097,West,Campaign,Networking,Negotiation,127883,97,3320,11,Low urgency but long-term potential.,83.6,Hot
+1098,Lisa,Howard,Acme Corp,lead98@example.com,555-010-0098,Midwest,Referral,Cybersecurity,Contacted,223958,38,3310,61,Low urgency but long-term potential.,57.1,Warm
+1099,Nina,Howard,Pioneer Networks,lead99@example.com,555-010-0099,West,Webinar,Analytics,Qualified,243213,13,6732,79,Requested technical architecture overview.,45.8,Cold
+1100,David,Johnson,CloudBridge,lead100@example.com,555-010-0100,South,Webinar,Cloud Services,Qualified,136189,31,7228,87,Interested in cloud migration and cost savings.,54.0,Warm
+1101,Chris,Lee,Pioneer Networks,lead101@example.com,555-010-0101,Midwest,Campaign,Networking,Negotiation,130808,47,7786,82,Interested in cloud migration and cost savings.,61.2,Warm
+1102,Maria,Howard,Delta Systems,lead102@example.com,555-010-0102,South,LinkedIn,Networking,Negotiation,117221,88,3685,7,Needs follow-up next week.,94.6,Hot
+1103,Maria,Brown,CloudBridge,lead103@example.com,555-010-0103,West,Website,AI Automation,Contacted,220543,52,3064,20,Budget approved but comparing vendors.,63.4,Warm
+1104,Lisa,Garcia,Delta Systems,lead104@example.com,555-010-0104,East,LinkedIn,Networking,Proposal Sent,248685,56,7980,80,Asked about cybersecurity and compliance requirements.,65.2,Warm
+1105,Maria,Howard,Acme Corp,lead105@example.com,555-010-0105,West,Campaign,Cybersecurity,Contacted,18234,15,2153,86,Interested in cloud migration and cost savings.,31.8,Cold
+1106,Maria,Johnson,Acme Corp,lead106@example.com,555-010-0106,South,Webinar,Analytics,Negotiation,239936,29,5217,79,Low urgency but long-term potential.,53.0,Warm
+1107,Nina,Patel,CloudBridge,lead107@example.com,555-010-0107,South,LinkedIn,Analytics,Closed Won,58441,8,9513,69,Needs follow-up next week.,28.6,Cold
+1108,Lisa,Lee,CloudBridge,lead108@example.com,555-010-0108,Midwest,Webinar,Cloud Services,Negotiation,5846,5,2548,71,Asked about cybersecurity and compliance requirements.,27.2,Cold
+1109,Nina,Wilson,Pioneer Networks,lead109@example.com,555-010-0109,East,Website,AI Automation,Closed Won,15954,29,4557,24,Needs follow-up next week.,38.0,Cold
+1110,Chris,Johnson,Pioneer Networks,lead110@example.com,555-010-0110,Midwest,Webinar,Cloud Services,New,84239,47,5629,81,Asked about cybersecurity and compliance requirements.,46.2,Cold
+1111,Tanya,Howard,Delta Systems,lead111@example.com,555-010-0111,South,Webinar,Networking,Negotiation,249761,68,8366,88,Asked about cybersecurity and compliance requirements.,70.6,Warm
+1112,Chris,Lee,CloudBridge,lead112@example.com,555-010-0112,West,Referral,Cloud Services,New,51514,76,6622,11,Requested technical architecture overview.,59.2,Warm
+1113,Tanya,Garcia,Acme Corp,lead113@example.com,555-010-0113,East,Referral,Cybersecurity,Proposal Sent,93236,45,5015,14,Interested in cloud migration and cost savings.,45.2,Cold
+1114,Nina,Howard,Pioneer Networks,lead114@example.com,555-010-0114,West,Cold Outreach,Analytics,Contacted,102579,2,832,58,Needs follow-up next week.,33.9,Cold
+1115,Chris,Johnson,Pioneer Networks,lead115@example.com,555-010-0115,West,Referral,Networking,Closed Won,142541,27,953,25,Needs follow-up next week.,45.2,Cold
+1116,Lisa,Smith,Acme Corp,lead116@example.com,555-010-0116,East,Webinar,Cloud Services,Contacted,166177,95,6160,25,Requested technical architecture overview.,82.8,Hot
+1117,Aaron,Brown,Pioneer Networks,lead117@example.com,555-010-0117,Midwest,Campaign,AI Automation,New,47101,36,4435,46,Low urgency but long-term potential.,41.2,Cold
+1118,Nina,Wilson,Delta Systems,lead118@example.com,555-010-0118,West,Webinar,Cybersecurity,Closed Won,69323,36,8976,31,Low urgency but long-term potential.,41.2,Cold
+1119,Tanya,Patel,CloudBridge,lead119@example.com,555-010-0119,South,Campaign,Cybersecurity,Contacted,96922,26,2208,9,Interested in cloud migration and cost savings.,36.7,Cold
+1120,David,Johnson,Acme Corp,lead120@example.com,555-010-0120,West,Campaign,Cloud Services,Negotiation,194139,43,4252,15,Interested in cloud migration and cost savings.,59.4,Warm
+1121,Tanya,Lee,CloudBridge,lead121@example.com,555-010-0121,East,Referral,Analytics,Qualified,185448,27,3705,70,Budget approved but comparing vendors.,52.2,Warm
+1122,David,Wilson,Pioneer Networks,lead122@example.com,555-010-0122,East,LinkedIn,Cloud Services,New,181659,69,3462,16,Requested technical architecture overview.,71.0,Warm
+1123,Maria,Wilson,Pioneer Networks,lead123@example.com,555-010-0123,East,Website,Networking,Contacted,173048,20,9116,22,Low urgency but long-term potential.,49.0,Cold
+1124,Chris,Wilson,Acme Corp,lead124@example.com,555-010-0124,Midwest,Referral,Cloud Services,New,240659,11,1318,25,Asked about cybersecurity and compliance requirements.,45.0,Cold
+1125,David,Howard,Delta Systems,lead125@example.com,555-010-0125,West,Referral,Cybersecurity,Closed Lost,132534,74,4187,84,Needs follow-up next week.,73.3,Warm
+1126,Tanya,Brown,Northstar Health,lead126@example.com,555-010-0126,Midwest,LinkedIn,Cloud Services,New,72584,38,8715,85,Interested in cloud migration and cost savings.,42.1,Cold
+1127,Maria,Howard,Acme Corp,lead127@example.com,555-010-0127,Midwest,Website,Analytics,Closed Won,109537,6,6862,6,Needs follow-up next week.,57.7,Warm
+1128,Aaron,Lee,Northstar Health,lead128@example.com,555-010-0128,East,Webinar,AI Automation,Closed Lost,83477,72,6045,13,Needs follow-up next week.,57.4,Warm
+1129,Lisa,Howard,Northstar Health,lead129@example.com,555-010-0129,East,Cold Outreach,ERP,Closed Won,246983,23,3604,78,Budget approved but comparing vendors.,50.4,Warm
+1130,Lisa,Smith,Delta Systems,lead130@example.com,555-010-0130,Midwest,Cold Outreach,Cloud Services,Qualified,47533,47,4851,6,Low urgency but long-term potential.,61.2,Warm
+1131,Lisa,Brown,Northstar Health,lead131@example.com,555-010-0131,West,Webinar,Analytics,Closed Lost,6828,90,1419,8,Interested in cloud migration and cost savings.,65.5,Warm
+1132,David,Brown,Northstar Health,lead132@example.com,555-010-0132,South,Referral,Analytics,Negotiation,6917,46,4576,47,Needs follow-up next week.,45.7,Cold
+1133,Aaron,Lee,Delta Systems,lead133@example.com,555-010-0133,Midwest,Website,AI Automation,New,25618,12,4501,71,Interested in cloud migration and cost savings.,30.4,Cold
+1134,David,Patel,Northstar Health,lead134@example.com,555-010-0134,West,Referral,Cybersecurity,Contacted,37254,90,1565,58,Asked about cybersecurity and compliance requirements.,65.5,Warm
+1135,Chris,Smith,Northstar Health,lead135@example.com,555-010-0135,East,Campaign,Analytics,Proposal Sent,110292,13,814,86,Budget approved but comparing vendors.,38.8,Cold
+1136,David,Johnson,Northstar Health,lead136@example.com,555-010-0136,East,Referral,Analytics,New,52362,62,1289,81,Asked about cybersecurity and compliance requirements.,52.9,Warm
+1137,Aaron,Howard,Acme Corp,lead137@example.com,555-010-0137,West,Referral,Analytics,New,25128,82,7093,38,Interested in cloud migration and cost savings.,61.9,Warm
+1138,Aaron,Garcia,Acme Corp,lead138@example.com,555-010-0138,South,Webinar,Analytics,Qualified,128781,89,5996,17,Interested in cloud migration and cost savings.,80.1,Hot
+1139,Chris,Howard,Acme Corp,lead139@example.com,555-010-0139,East,Webinar,Networking,Negotiation,247353,97,5629,58,Low urgency but long-term potential.,83.6,Hot
+1140,Aaron,Wilson,Delta Systems,lead140@example.com,555-010-0140,East,Webinar,Networking,Proposal Sent,195455,60,1397,16,Needs follow-up next week.,67.0,Warm
+1141,Tanya,Howard,Pioneer Networks,lead141@example.com,555-010-0141,East,Cold Outreach,Cybersecurity,Closed Lost,70545,43,2689,13,Needs follow-up next week.,44.4,Cold
+1142,Aaron,Johnson,Northstar Health,lead142@example.com,555-010-0142,West,Campaign,Cloud Services,Closed Lost,87180,76,2116,30,Asked about cybersecurity and compliance requirements.,59.2,Warm
+1143,Lisa,Howard,Northstar Health,lead143@example.com,555-010-0143,Midwest,Webinar,Analytics,Closed Lost,92958,68,8183,23,Budget approved but comparing vendors.,55.6,Warm
+1144,Tanya,Smith,Delta Systems,lead144@example.com,555-010-0144,East,Website,AI Automation,Closed Won,145937,5,4233,59,Requested technical architecture overview.,42.2,Cold
+1145,Tanya,Smith,Northstar Health,lead145@example.com,555-010-0145,Midwest,Cold Outreach,Cloud Services,Closed Won,138291,37,4841,44,Needs follow-up next week.,56.6,Warm
+1146,Chris,Brown,Acme Corp,lead146@example.com,555-010-0146,South,LinkedIn,AI Automation,Contacted,44809,72,2778,2,Low urgency but long-term potential.,72.4,Warm
+1147,James,Lee,Pioneer Networks,lead147@example.com,555-010-0147,East,Website,Cloud Services,Proposal Sent,121748,92,3196,36,Asked about cybersecurity and compliance requirements.,81.4,Hot
+1148,James,Patel,CloudBridge,lead148@example.com,555-010-0148,East,Website,Cybersecurity,Closed Lost,10287,31,2583,42,Asked about cybersecurity and compliance requirements.,39.0,Cold
+1149,Aaron,Garcia,Northstar Health,lead149@example.com,555-010-0149,South,Webinar,Analytics,Closed Won,170459,9,2609,39,Requested technical architecture overview.,44.0,Cold
+1150,Tanya,Wilson,Acme Corp,lead150@example.com,555-010-0150,East,LinkedIn,Analytics,Contacted,13512,51,4043,89,Low urgency but long-term potential.,48.0,Cold
